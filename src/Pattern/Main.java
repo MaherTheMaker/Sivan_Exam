@@ -1,9 +1,10 @@
 package Pattern;
 
+import EidP_Klausur_09.Test;
+
 public class Main {
 
         public static void main(String[] args) {
-
                 int a[]={1,2,4,5,6,7};
                 int b[]={2,4};
                 System.out.println("check(1,a,b) = " + check2(1,a,b));
